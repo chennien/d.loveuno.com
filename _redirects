@@ -1,0 +1,9 @@
+https://loveuno.netlify.app/* https://go.nien.co/3B1vYUx 301!
+http://d.loveuno.com/* https://d.loveuno.com/:splat 301!
+
+/ https://go.nien.co/3nLxdnv 302
+/win /LoveUNO.exe 302
+/mac https://cdn.jsdelivr.net/gh/chennien/d.loveuno.com@0/LoveUNO.dmg 302
+/ios https://cdn.jsdelivr.net/gh/chennien/d.loveuno.com@0/LoveUNO.mobileconfig 302
+
+/* https://go.nien.co/3nLxdnv 302

@@ -1,0 +1,9 @@
+#
+# Robots.txt file for d.loveuno.com
+# LoveUNO.com is a wholly owned subsidiary of CCNDA (Chinese Christian Network Development Association)
+# 
+# Link: https://ccnda.net/L6JA or https://go.nien.co/3nLxdnv 
+# For questions, please contact https://app.ccnda.net/qLo3 
+
+User-agent: *
+Disallow: /
